@@ -14,7 +14,7 @@ frame_address = (frame_ip, frame_port)
 # 应用类,将功能封装在类中
 class Application(object):
     """
-
+    功能实现类
     """
 
     def __init__(self):
